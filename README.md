@@ -1,4 +1,4 @@
-# Font Repository
+# Free Iran Fonts Repository
 
 This repository contains a collection of fonts available for use in various creative projects. The fonts included in this repository are sourced from [Font Iran](https://fontiran.com/), a platform that offers a wide range of Persian fonts with legal licenses.
 
