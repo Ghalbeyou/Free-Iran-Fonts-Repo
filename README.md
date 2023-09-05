@@ -1,35 +1,37 @@
-# Free Iran Fonts Repository
+# FREE IRAN FONTS REPOSITORY: A Collection of Creative Fonts
 
-This repository contains a collection of fonts available for use in various creative projects. The fonts included in this repository are sourced from [Font Iran](https://fontiran.com/), a platform that offers a wide range of Persian fonts with legal licenses.
+Welcome to the Free Iran Fonts Repository! Here, you will find a diverse collection of fonts that can be utilized in various creative projects. All the fonts included in this repository have been sourced from [Font Iran](https://fontiran.com/), a reputable platform offering a wide selection of Persian fonts with legal licenses.
 
-## Usage
+## USAGE: Exploring and Utilizing the Fonts
 
 1. Preview and Testing:
-   - You are allowed to use the fonts in this repository for preview and testing purposes.
-   - Feel free to explore the various fonts and experiment with them to see if they suit your design needs.
+   - You have the freedom to use the fonts in this repository exclusively for preview and testing purposes.
+   - Feel free to immerse yourself in the world of typography by exploring the different fonts and experimenting with them to determine if they align with your unique design requirements.
 
 2. Purchasing Fonts:
-   - If you find a font that you would like to use in your projects, you can purchase the font from [Font Iran](https://fontiran.com/).
-   - Visit the website, select the desired font, and follow the instructions to complete the purchase.
+   - Should you come across a font that resonates with your projects, you can conveniently purchase it directly from [Font Iran's website](https://fontiran.com/).
+   - Simply navigate to the website, select your desired font, and follow the provided instructions to complete your purchase.
 
 3. Legal Considerations:
-   - Ensure that you adhere to the terms and conditions specified by [Font Iran](https://fontiran.com/) regarding the usage and licensing of the fonts.
-   - Do not use the fonts for any unauthorized or illegal purposes.
+   - It is crucial to respect and abide by the terms and conditions specified by [Font Iran](https://fontiran.com/) regarding the usage and licensing of the fonts.
+   - Under no circumstances should the fonts be used for unauthorized or illegal purposes.
 
-## Folder Structure
+## FOLDER STRUCTURE: Organized for Easy Exploration
 
-The fonts in this repository are organized into separate folders based on their respective categories. The folder structure is as follows:
+The fonts in this repository have been meticulously organized into separate folders, categorized based on their specific types and purposes. The folder structure is as follows:
 
-- `Fonts/Text` - Fonts suitable for paragraphs and texts.
-- `Fonts/Title` - Fonts suitable for headings and titles.
+- `Fonts/Text` - Discover fonts suitable for paragraphs and text-based content.
+- `Fonts/Title` - Explore fonts tailored for headings and titles.
 - ...
 
-Feel free to explore the folders to find the fonts that meet your requirements.
+Feel free to navigate through the folders, allowing you to conveniently locate the fonts that best cater to your creative needs.
 
-## License
+## LICENSE: Complying with Font Iran's Licensing Terms
 
-The fonts in this repository are subject to the licenses provided by [Font Iran](https://fontiran.com/). Refer to the individual font licenses for more information.
+The fonts within this repository are subject to the licenses provided by [Font Iran](https://fontiran.com/). For more detailed information, kindly refer to the individual font licenses.
 
-## Issues and Support
+## ISSUES AND SUPPORT: Assisting You Every Step of the Way
 
-If you encounter any issues or have questions regarding the fonts or their usage, please contact the support team at [Font Iran](https://fontiran.com/) for assistance.
+In the event that you encounter any issues or have questions concerning the fonts or their usage, our dedicated support team at [Font Iran](https://fontiran.com/) is readily available to provide assistance. Reach out to them for prompt and reliable support.
+
+Thank you for choosing the Free Iran Fonts Repository. Enjoy the creative possibilities that await you with this remarkable collection of fonts!
