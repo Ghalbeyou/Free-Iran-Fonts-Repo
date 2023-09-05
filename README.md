@@ -30,8 +30,4 @@ Feel free to navigate through the folders, allowing you to conveniently locate t
 
 The fonts within this repository are subject to the licenses provided by [Font Iran](https://fontiran.com/). For more detailed information, kindly refer to the individual font licenses.
 
-## ISSUES AND SUPPORT: Assisting You Every Step of the Way
-
-In the event that you encounter any issues or have questions concerning the fonts or their usage, our dedicated support team at [Font Iran](https://fontiran.com/) is readily available to provide assistance. Reach out to them for prompt and reliable support.
-
 Thank you for choosing the Free Iran Fonts Repository. Enjoy the creative possibilities that await you with this remarkable collection of fonts!
